@@ -1,7 +1,13 @@
 {
-  "version": 13,
+  "version": 14,
   "updated": "2026-11-11 04:10",
   "tree": [
+    {
+      "id": "f_2ecbda6ed9",
+      "name": "王者",
+      "type": "folder",
+      "children": []
+    },
     {
       "id": "file_a27a6b91ab",
       "name": "Screenshot_2026-11-11-03-59-56-07_79245d1e9e87937c7e0114aeb6414a95(2).jpg",
